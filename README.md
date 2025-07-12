@@ -156,4 +156,4 @@ This project includes code under multiple open source licenses:
 - Some components are based on code originally written by Orson Peters, licensed under a permissive MIT-style license (see `src/cuda-ecc-ed25519/license.txt` for full text).
 - Nostr `npub` support and Bech32 encoding added by [MrJohnsson77](https://github.com/MrJohnsson77) are provided under the same license as the project as a whole (GPL), to ensure compatibility with the most restrictive component.
 
-See LICENSE and `src/cuda-ecc-ed25519/license.txt` for details and original project licenses.
+See LICENSE and [`src/cuda-ecc-ed25519/license.txt`](src/cuda-ecc-ed25519/license.txt) for details and original project licenses.
