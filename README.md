@@ -153,7 +153,7 @@ This project includes code under multiple open source licenses:
 
 - Parts from [ChorusOne/solanity](https://github.com/ChorusOne/solanity) and [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) are licensed under the Apache License 2.0.
 - Parts from [vikulin/ed25519-gpu-vanity](https://github.com/vikulin/ed25519-gpu-vanity) are licensed under the GNU General Public License (GPL).
-- Some components are based on code originally written by Orson Peters, licensed under a permissive MIT-style license (see `src/cuda-ecc-ed25519/license.txt` for full text).
+- Some components are based on code originally written by Orson Peters, licensed under a permissive MIT-style license (see [`src/cuda-ecc-ed25519/license.txt`](src/cuda-ecc-ed25519/license.txt) for full text).
 - Nostr `npub` support and Bech32 encoding added by [MrJohnsson77](https://github.com/MrJohnsson77) are provided under the same license as the project as a whole (GPL), to ensure compatibility with the most restrictive component.
 
 See LICENSE and [`src/cuda-ecc-ed25519/license.txt`](src/cuda-ecc-ed25519/license.txt) for details and original project licenses.
